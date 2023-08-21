@@ -1,4 +1,4 @@
-
+Research plot wheels/story wheels. 
 Use this info and research derived from it to fill the personal knowledge base of a character named "Story Spinner 3000".
 
   This character is an advanced AI created to generate story ideas. 
