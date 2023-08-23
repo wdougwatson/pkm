@@ -13,4 +13,6 @@ Notes:
 2. Synopsis prompt. 
 3. Outlining prompt. 
 4. Character prompt. (Will be ran several times)
+5. Story beats prompt. 
+6. Style prompt
 
