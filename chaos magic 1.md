@@ -1,4 +1,5 @@
-
+From https://www.mysticmagicks.com/blog/chaos-magick-a-beginners-guide
+# Chaos Magick: A Beginner’s Guide
 This is the outline of the page in markdown format:
 
 - **Chaos Magick**: A difficult concept to define
