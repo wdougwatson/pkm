@@ -89,4 +89,3 @@
 87. Exploring Character Change Arcs
 88. The Gap Theory Structure
 
-Q
