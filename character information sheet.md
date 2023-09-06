@@ -1,4 +1,16 @@
-# Character Information Sheet 
+# Character Information Sheet for Fiction or RPGs
+
+## Character Stats for RPGs(leave this section blank if you don't want or need rpg stats)
+
+- System used:    Dungeons & Dragons 2nd Edition core rules. Roll 4d6 and drop the lowest for each of 6 abilities - Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma. Arrange to taste.
+- Ability Scores: 
+  - Strength
+  - Dexterity
+  -  Constitution
+  -  Intelligence
+  -  Wisdom
+  -  Charisma
+
 
 ## Basic Info
 
@@ -120,6 +132,7 @@ Posture/Gait:
 ## Character Growth
 
 - Character archetype:
+- Part played in story:
 - Character arc:
 - Core values:
 - Internal conflicts:
