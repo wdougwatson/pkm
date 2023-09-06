@@ -26,7 +26,6 @@
 Posture/Gait:
   - Tics:
   - Coordination (or lack thereof):
-  - Weaknesses:
 - Other notes:
 
 ## Backstory
@@ -66,7 +65,6 @@ Posture/Gait:
 - Regrets:
 - Accomplishments:
 - Memories:
-- Strengths:
 - Other notes:
 
 ## Communication
