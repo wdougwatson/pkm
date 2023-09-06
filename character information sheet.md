@@ -27,17 +27,20 @@ Posture/Gait:
   - Tics:
   - Coordination (or lack thereof):
   - Weaknesses:
+- Other notes:
 
 ## Backstory
 
 - History:
 - Motivations:
 - Secrets:
+- Other notes:
 
 ## Personality
 
 - Myers-Briggs Type(include type description):
 - Enneagram Type(include type description):
+- Personality traits:
 - Temperament:
 - Introvert/Extrovert:
 - Mannerisms:
@@ -64,26 +67,71 @@ Posture/Gait:
 - Accomplishments:
 - Memories:
 - Strengths:
+- Other notes:
 
+## Communication
+ - Languages known:
+ - Preferred communication methods:
+ - Accent:
+ - Style and pacing of speech:
+ - Pitch:
+ - Laughter:
+ - Smile:
+ - Use of gestures:
+ - Facial expressions:
+ - Verbal expressions:
+ - Other notes:
 ## Relationships
 
+- Partner(s)/Significant other(s):
+- Lover(s):
+- Parents/Guardians:
+- Children:
+- Grandparents:
+- Grandchildren:
 - Family:
+- Pets:
+- Best friends:
 - Friends:
-- Romantic Interests:
-- Rivals/Enemies:
-
-## Story Arc
-
-- Beginning:
-- Inciting Incident:
-- Rising Action:
-- Climax:
-- Falling Action:
-- Resolution:
+- Rivals:
+- Enemies:
+- Colleagues:
+- Mentors/Teachers:
+- Idols/Role models:
+- Followers:
+- Strangers:
+- Significant Deceased friends
+- Spiritual entities:
+- Clubs/Memberships:
+- Social media presence:
+- Public perception of them:
+- Other notes:
+## Strengths, Weaknesses, and Abilities
+- Physical strengths:
+- Physical weaknesses:
+- Intellectual strengths:
+- Intellectual weaknesses:
+- Interpersonal strengths:
+- Interpersonal weaknesses:
+- Physical abilities:
+- Magical abilities:
+- Physical illnesses/conditions:
+- Mental illnesses/conditions:
+- Other notes:
 
 ## Character Growth
 
+- Character archetype:
+- Character arc:
+- Core values:
+- Internal conflicts:
+- External conflicts:
+- Goals: 
+- Motivations:
+- Epiphanies:
+- Significant events/plot points:
 - Lessons Learned:
 - How They Change:
+- Other Notes:
 
 ## Notes
