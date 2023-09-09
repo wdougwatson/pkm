@@ -1,28 +1,35 @@
+## Prose Style 
 
-Here is a revised style guide without references to Hemingway:
+### Structure of Sentences and Paragraphs:
 
-Writing Style
-- Use short, simple sentences averaging 15-20 words.  
-- Write in an active voice with direct, dynamic language.
-- Describe through concrete, sensory details that set mood rather than abstract concepts.
-- Eliminate unnecessary adjectives and adverbs letting nouns and verbs do descriptive work.
-- Keep dialogue brief and advancing the story through character revelation.
+- Sentences tend to be on the shorter side, averaging between 15 to 20 words in length. This helps to keep the writing moving at a brisk pace. 
 
-Structure  
-- Paragraphs focus on a single moment or idea using 2-4 sentences.
-- Scenes intensely focus on pivotal moments without commentary or summary.
-- Employ economy of storytelling, omitting needless background for dramatic significance.  
-- Maintain forward momentum with taut, urgent pacing and minimal exposition.
+- The writing is usually in the active voice, which utilizes more direct and dynamic verbs. This gives the prose a sense of forward momentum and urgency.
 
-Tone
-- Adopt a plain, unsentimental style with understated emotional responses.     
-- Employ understatement over exaggeration to imply deeper meanings.
-- Maintain an objective, observant narrative perspective with minimal authorial intrusion.
-- Imbue descriptions with vivid sensory imagery for realism and mood.
+- Paragraphs focus on either a single moment in the story or one central idea. They contain roughly 2 to 4 sentences of content each.
 
-Themes
-- Focus on humanity’s relationships with nature and life’s tests of endurance.
-- Explore concepts like honor, masculinity and purpose through character actions.  
-- Subtly convey ideas through dramatic events rather than discussion or analysis.
+- Key scenes are written so as to intensely focus on pivotal or important moments within the narrative. There is little commentary or summarization included. 
 
-This style guide emphasizes showing depth through brevity, focusing scenes on key moments, and allowing ambiguity for interpretation - letting the storytelling speak for itself through dynamic language and events. Sensory detail grounds the atmosphere while economy reveals dramatic significance.
+- An economy of storytelling is employed. This means unnecessary background details are omitted in order to emphasize dramatic significance. 
+
+- Forward narrative momentum is maintained through relatively taut pacing and minimal explanatory text or exposition.
+
+### Tone and Mood:
+
+- The style is meant to be plain and straightforward with emotional responses understated rather than overtly sentimental.
+
+- Understatement is utilized more so than exaggeration, allowing certain meanings or implications to lie subtly beneath the surface.
+
+- The narrative perspective aims to be objective and observant while keeping authorial intrusion or commentary to a minimum.  
+
+- Descriptions rely on vivid sensory imagery and concrete details to effectively set the atmosphere and mood.
+
+### Themes and Subject Matter:  
+
+- Recurring themes often center around humanity's relationships with nature or advancing technology, as well as life's challenges and tests of endurance. 
+
+- Concepts such as honor, masculinity, and finding purpose are routinely explored through the actions and experiences of characters.
+
+- Ideas are conveyed subtly through dramatic events in the story rather than through direct discussion, philosophical musings, or analysis.
+
+In summation, this style emphasizes showing greater depth and complexity through brevity, focusing key narrative moments, and allowing some ambiguity for reader interpretation. Authentic sensory details and economical word choice balance simplicity with significance.
